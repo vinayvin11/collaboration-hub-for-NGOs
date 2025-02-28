@@ -1,4 +1,4 @@
-# Pradan
+# vinay
  Java Web App for donation
  
  It has 3 roles:  
